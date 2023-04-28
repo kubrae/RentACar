@@ -10,6 +10,6 @@
 //lokalde conflig olursa
 //asdfghjkl;''
 //asdfghjkl;'
-sertyuiop[';lkjhgvfcvb']
-xfghjkl;'/.,mnbvfcgyhujikol;'/.,mnbv
-fghjkl;'lkjhbvgcvbnm,.,mn'
+lkjhgvfcvb
+mnbvfcgyhujikol
+'lkjhbvgcvbnm,.,mn'
