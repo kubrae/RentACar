@@ -7,4 +7,4 @@
 //yeni kodlarrrr farkli kodlar 
 
 //bazi kodlar yazdik
-
+//lokalde conflig olursa
