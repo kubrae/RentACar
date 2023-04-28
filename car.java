@@ -8,8 +8,5 @@
 
 //bazi kodlar yazdik
 //lokalde conflig olursa
-//asdfghjkl;''
-//asdfghjkl;'
-//zxdfghjkl;/.,mnbvb
-//gfghjkl;''
-//;lkjnbhvjkl;//
+// remotta yeni kod yazdim 
+
