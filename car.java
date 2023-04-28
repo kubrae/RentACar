@@ -8,5 +8,3 @@
 
 //bazi kodlar yazdik
 //lokalde conflig olursa
-ssdfghjjkl;
-sdftgyuiolkjhgfxcfgvhjk
