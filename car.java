@@ -10,3 +10,6 @@
 //lokalde conflig olursa
 //asdfghjkl;''
 //asdfghjkl;'
+//zxdfghjkl;/.,mnbvb
+//gfghjkl;''
+//;lkjnbhvjkl;//
