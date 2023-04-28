@@ -1,0 +1,1 @@
+// hari bazi kodlar yazdim
